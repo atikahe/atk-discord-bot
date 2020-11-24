@@ -1,7 +1,7 @@
 # atk-discord-bot
 Build a Discord bot with Discord.js
 
-# TODO
+## TODO
 * [ ] Setup project / dependencies
   * npm i discord.js dotenv
 * [ ] Setup eslint
@@ -17,7 +17,7 @@ Build a Discord bot with Discord.js
 * [ ] Build an '8ball' command
 * [ ] Refactor to use a command handler
 
-# Resources
+## Resources
 * [Discord.js Guide](https://discordjs.guide/)
 * [Discord.js Documentation](https://discord.js.org/#/docs/main/stable/general/welcome)
   * [Discord.js Collection Documentation](https://discord.js.org/#/docs/main/stable/class/Collection)
