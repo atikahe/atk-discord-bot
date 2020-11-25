@@ -16,7 +16,9 @@ Build a Discord bot with Discord.js
 * [x] Build an echo command
 * [x] Build an '8ball' command
 * [x] Refactor to use a command handler
+* [ ] Add testing
 * [ ] Connect bot to an API
+* [ ] Implement GPT Text Generator for bot reply
 
 ## Resources
 * [Discord.js Guide](https://discordjs.guide/)
