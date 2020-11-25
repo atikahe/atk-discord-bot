@@ -19,6 +19,7 @@ Build a Discord bot with Discord.js
 * [ ] Add testing
 * [ ] Connect bot to an API
 * [ ] Implement GPT Text Generator for bot reply
+* [ ] Add more fun games
 
 ## Resources
 * [Discord.js Guide](https://discordjs.guide/)
