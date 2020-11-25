@@ -1,0 +1,33 @@
+{
+  "name": "atk-discord-bot",
+  "version": "1.0.0",
+  "description": "Build a Discord bot with Discord.js",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.8",
+    "@babel/core": "^7.12.8",
+    "@babel/node": "^7.12.6",
+    "@babel/preset-env": "^7.12.7",
+    "eslint": "^7.14.0",
+    "esm": "^3.2.25",
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atikahe/atk-discord-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atikahe/atk-discord-bot/issues"
+  },
+  "homepage": "https://github.com/atikahe/atk-discord-bot#readme"
+}
